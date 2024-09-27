@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindu-nethmin&label=Profile%20views&color=0e75b6&style=flat" alt="sachindu-nethmin" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=sachindu-nethmin&theme=dark" alt="sachindu-nethmin" /></a> </p>
 
