@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachindu-nethmin&theme=dark&show" alt="sachindu-nethmin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachindu-Nethmin&theme=dark&show" alt="sachindu-nethmin" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachindu-nethmin&theme=dark&show_icons=true&locale=en&layout=compact" alt="sachindu-nethmin" /></p>
 
