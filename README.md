@@ -25,12 +25,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachindu-nethmin&theme=dark&show_icons=true&locale=en&layout=compact" alt="sachindu-nethmin" /></p>
 
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=sachindu-nethmin&theme=dark" alt="sachindu-nethmin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=sachindu-nethmin&theme=onedark" alt="sachindu-nethmin" /></a> </p>
 
 
 <p align="left">
