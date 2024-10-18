@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindu-nethmin&label=Profile%20views&color=0e75b6&style=flat" alt="Sachindu-Nethmin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindu-nethmin&label=Profile%20views&color=0e75b6&style=flat" alt="Sachindu-Nethmin"  /> </p>
 
-![Sachindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachindu-Nethmin&theme=dark&show_icons=true)
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sachindu-Nethmin&theme=dark&show" alt="sachindu-nethmin" />
+![Sachindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachindu-Nethmin&theme=dark&show_icons=true )
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sachindu-Nethmin&theme=dark&show" alt="sachindu-nethmin" width="25%"/>
 
  
 
