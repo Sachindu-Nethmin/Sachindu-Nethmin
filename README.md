@@ -1,5 +1,5 @@
 ## Hi, I am Sachindu. 
-🌱  I am dedicated to expanding my knowledge.
+🌱 I am dedicated to expanding my knowledge.
 <!--
 **Sachindu-Nethmin/Sachindu-Nethmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
