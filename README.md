@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 ![Sachindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachindu-Nethmin&theme=dark&show_icons=true )
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sachindu-Nethmin&theme=dark&show" alt="sachindu-nethmin" width="42%"/>
 
- 
-
-  
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sachindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Sachindu-Nethmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
