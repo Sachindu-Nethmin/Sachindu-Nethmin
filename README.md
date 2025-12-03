@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindu-nethmin&label=Profile%20views&color=0e75b6&style=flat" alt="Sachindu-Nethmin"  /> </p>
 
-![Sachindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachindu-Nethmin&theme=dark&show_icons=true )
-![](https://github-contributor-stats.vercel.app/api?username=Sachindu-Nethmin&limit=5&theme=dark&combine_all_yearly_contributions=true&width=35%)
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -28,9 +26,6 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachindu-nethmin&theme=dark&langs_count=12&show_icons=true&locale=en&layout=compact" alt="sachindu-nethmin" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=sachindu-nethmin&theme=onedark" alt="sachindu-nethmin" /></a> </p>
 
 
 <p align="left"></p>
